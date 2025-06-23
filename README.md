@@ -15,4 +15,4 @@ Simple C# app that monitors active TCP connections of the AnyDesk process on Win
 3. See active AnyDesk connections printed and logged in `ip_YYYY-MM-DD_HH-MM-SS.log` and in `cmd`.  
 
 
-- **I do not take responsibility for anything you do. Everything you do is at your own risk.**
+- `I do not take responsibility for anything you do. Everything you do is at your own risk.`
