@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnydeskLogger", "AnydeskLogger.csproj", "{4C849430-87BC-436F-B8F2-E77704664C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C849430-87BC-436F-B8F2-E77704664C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C849430-87BC-436F-B8F2-E77704664C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C849430-87BC-436F-B8F2-E77704664C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C849430-87BC-436F-B8F2-E77704664C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35F7C831-AFA7-41A1-B769-90579E8A78E1}
+	EndGlobalSection
+EndGlobal
