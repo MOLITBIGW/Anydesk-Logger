@@ -14,3 +14,5 @@ Simple C# app that monitors active TCP connections of the AnyDesk process on Win
 2. Run `AnydeskLogger.exe`.  
 3. See active AnyDesk connections printed and logged in `ip_YYYY-MM-DD_HH-MM-SS.log`.  
 
+
+> **I do not take responsibility for anything you do. Everything you do is at your own risk.**
